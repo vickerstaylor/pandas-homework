@@ -1,4 +1,4 @@
-# pandas-homework
+# Pandas Homework Trends
 
 Below are the observable trends I spotted while looking at the data:
 
